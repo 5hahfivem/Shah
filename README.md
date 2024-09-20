@@ -3,6 +3,7 @@
 ## Hi there! 😄 
 I'm a passionate Lua developer with experience in various scripting languages and frameworks. Below, you can see my expertise in different technologies along with some GitHub stats.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luacatt&label=Profile%20views&color=blue&style=flat" alt="luacatt" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/99291234?s=200&v=4" alt="luacatt" /> </p>
 ---
 
 <h3 align="left">Languages and Technologies:</h3>
