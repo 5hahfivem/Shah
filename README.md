@@ -31,7 +31,7 @@ I'm a passionate Lua developer with experience in various scripting languages an
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/qbcore" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/81791099?s=200&v=4" alt="wsk" height="30" width="40" /></a>
-<a href="https://discord.gg/projectsloth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wsk" height="30" width="40" /></a>
+<a href="https://discord.gg/projectsloth" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/99291234?s=200&v=4" alt="wsk" height="30" width="40" /></a>
 </p>
 
 
