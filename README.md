@@ -1,7 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
 ## Hi there! 😄 
-I'm a passionate Lua developer with experience in various scripting languages and frameworks. Below, you can see my expertise in different technologies along with some GitHub stats.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luacatt&label=Profile%20views&color=blue&style=flat" alt="luacatt" /> </p>
 ---
 <h3 align="left">Connect with me:</h3>
@@ -23,4 +22,4 @@ I'm a passionate Lua developer with experience in various scripting languages an
 
 ---
 
-Feel free to explore my repositories to see the various projects I've worked on. If you'd like to collaborate or chat about Lua, open-source, or coding in general, drop me a message! 😊
+Feel free to explore my repositories to see the various projects I've worked on. If you'd like to collaborate or chat drop me a message! 😊
