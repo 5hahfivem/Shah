@@ -1,11 +1,7 @@
-# Welcome to My GitHub Profile! 👋
-
-## Hi there! 😄 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=luacatt&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
-</p>
-
----
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ### 🔗 Connect with Me
 <p align="left">
@@ -23,11 +19,12 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuaCatt&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EchoStudioss&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EchoStudioss&show_icons=true&theme=tokyonight)
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=EchoStudioss&theme=juicyfresh&no-bg=true" />
+
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/FFwkEKavBJ)](https://discord.gg/FFwkEKavBJ) 
 
 ### 🚀 Super Cool Dedicated Servers and VPS for You!
 <p align="center">
