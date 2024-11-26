@@ -3,19 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### 🔗 Connect with Me
-<p align="left">
-  <a href="https://discord.gg/qbcore" target="_blank" title="Join QBcore Discord">
-    <img src="https://avatars.githubusercontent.com/u/81791099?s=200&v=4" alt="QBcore" height="40" width="40" />
-  </a>
-  <a href="https://discord.gg/projectsloth" target="_blank" title="Join Project Sloth Discord">
-    <img src="https://avatars.githubusercontent.com/u/99291234?s=200&v=4" alt="Project Sloth" height="40" width="40" />
-  </a>
-<a href="https://discord.gg/1of1servers" target="_blank" title="Join 1of1 Servers Discord">
-    <img src="https://i.ibb.co/bLNT42J/opera-XP8-Abnd-Od-V.png" alt="1of1 Servers" height="40" width="40" />
-  </a>
-</p>
-
 ---
 
 ### 📊 GitHub Stats
