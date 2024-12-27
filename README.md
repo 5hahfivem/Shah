@@ -11,8 +11,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=EchoStudioss&theme=juicyfresh&no-bg=true" />
 
-[![](https://dcbadge.limes.pink/api/server/https://discord.gg/FFwkEKavBJ)](https://discord.gg/FFwkEKavBJ) 
-
 ### 🚀 Super Cool Dedicated Servers and VPS for You!
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/c59c8b193423781.65eb6f078e5b4.gif" alt="Dedicated Servers" style="border-radius: 10px;" />
