@@ -23,6 +23,3 @@
 [👉 Visit 1of1Servers!](https://www.1of1servers.com)
 
 ---
-
-### 🛠️ Explore My Projects
-Feel free to browse my repositories to see the various projects I've worked on. If you’d like to collaborate or chat, don’t hesitate to drop me a message! 😊
