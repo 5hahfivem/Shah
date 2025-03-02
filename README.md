@@ -6,10 +6,10 @@
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EchoStudioss&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EchoStudioss&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=5hahfivem&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5hahfivem&show_icons=true&theme=tokyonight)
 
-<img src="https://github-profile-trophy.vercel.app/?username=EchoStudioss&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=5hahfivem&theme=juicyfresh&no-bg=true" />
 
 ### 🚀 Super Cool Dedicated Servers and VPS for You!
 <p align="center">
