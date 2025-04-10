@@ -5,8 +5,11 @@
 
 ---
 
+### Spotify Playing 🎧
+[<img src="https://githup-profile-spotify-ic4plvz31.vercel.app/api/spotify" alt="Eh Spotify Playing" width="350" />](https://open.spotify.com/user/yeatrue)
+
+
 ### 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=5hahfivem&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5hahfivem&show_icons=true&theme=tokyonight)
 
 <img src="https://github-profile-trophy.vercel.app/?username=5hahfivem&theme=juicyfresh&no-bg=true" />
@@ -21,3 +24,13 @@
 [👉 Visit 1of1Servers!](https://www.1of1servers.com)
 
 ---
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][profile]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][profile]
+[<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][profile]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][profile]
+[<img align="left" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][profile]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][profile]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][profile]
